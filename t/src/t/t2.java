@@ -6,8 +6,7 @@ public class t2 {
 		// TODO Auto-generated method stub
 
 //o hhhh gggg
-		///hhhh   
-
+		///hhhh gg git
 	}
 
 }
